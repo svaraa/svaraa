@@ -33,8 +33,8 @@ I enjoy transforming raw data into clear insights that drive smarter decisions, 
 
 ### 🧩 [Customer Churn Dashboard](https://github.com/svaraa/customer-churn-prediction)  
 *CRM & Retention Analytics*  
-- Built SQL pipelines and Power BI dashboards to analyse churn by tenure, contract type, and usage.  
-- Identified top churn drivers and developed retention insights projected to reduce churn by **~18%**.  
+- Transformed and analysed 7,043 customer records using Python and Tableau, uncovering high-risk churn segments — including **month-to-month customers (55% of all churn)**, **high-charge users (> $80/month, 2.1× higher churn)**, and customers lacking support services (**45%+ churn vs. 11–18% with add-ons**).
+- Identified actionable retention levers through tenure, pricing, and service-usage analysis — showing **0–12 month customers churn 3× more**, enabling targeted onboarding, contract upgrades, and support-service activation strategies that can **reduce churn by an estimated 12–18%**.
 
 ---
 
