@@ -48,7 +48,7 @@ I enjoy transforming raw data into clear insights that drive smarter decisions, 
 ### 🌱 [ESG Emissions Dashboard](https://github.com/svaraa/esg-emmisions-dashboard)  
 *Sustainability & Energy Analytics*  
 - Developed a full end-to-end ESG analytics workflow using Python for data cleaning and Tableau for visualization, transforming 200+ years of global CO₂ emissions data into a clean, analysis-ready dataset. Built an interactive dashboard highlighting key sustainability KPIs including YoY Emission Change, Average Annual Growth Rate, and Global Emissions Trend, enabling users to clearly understand long-term climate patterns and acceleration periods.
-- Created country-level comparative visualizations such as a world CO₂ heatmap and Top 10 Emitters bar chart, revealing impactful insights—including a more than 300% increase in global emissions since 1960, significant regional disparities, and identification of nations with the largest modern-day carbon footprints. Enhanced ESG decision-making by enabling users to filter emissions by year and evaluate global vs. country-level sustainability progress.
+- Created country-level comparative visualizations such as a world CO₂ heatmap and Top 10 Emitters bar chart, revealing impactful insights, including a more than 300% increase in global emissions since 1960, significant regional disparities, and identification of nations with the largest modern-day carbon footprints. Enhanced ESG decision-making by enabling users to filter emissions by year and evaluate global vs. country-level sustainability progress.
 
 ---
 
