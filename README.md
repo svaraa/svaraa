@@ -12,7 +12,7 @@ I enjoy transforming raw data into clear insights that drive smarter decisions, 
 - 📊 Experienced in **SQL, Power BI, Excel, and Python (pandas, NumPy)**.  
 - 🚀 Skilled in **ETL, dashboard design, and reporting automation** using Databricks and Power BI.  
 - 🌏 Based in **Melbourne, Australia**, open to entry-level and graduate data analyst roles.  
-- 🧩 Always learning — currently exploring **Microsoft Fabric and advanced DAX**.
+- 🧩 Always learning! Currently exploring **Microsoft Fabric and advanced DAX**.
 
 ---
 
