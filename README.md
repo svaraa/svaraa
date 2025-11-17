@@ -62,7 +62,7 @@ I enjoy transforming raw data into clear insights that drive smarter decisions, 
 ## 📫 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/svaramasurekar/)
-- 🧾 [Resume (PDF)]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/16cn7BOE7oSVXsnrcGqa4itoaa8sZdsZA/view?usp=sharing))  
+- 🧾 [Resume (PDF)](https://drive.google.com/your-resume-link](https://drive.google.com/file/d/16cn7BOE7oSVXsnrcGqa4itoaa8sZdsZA/view?usp=sharing)
 
 ---
 
