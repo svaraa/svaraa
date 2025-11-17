@@ -40,22 +40,22 @@ I enjoy transforming raw data into clear insights that drive smarter decisions, 
 
 ### 🛒 [Retail Basket Insights](https://github.com/svaraa/retail-basket-insights)  
 *Operations & Sales Analytics*  
-- Analysed retail transactions to uncover product affinities and seasonal purchase patterns.  
-- Automated dashboards for category managers, improving decision-making and boosting basket value by **~9%**.  
+- Performed association-rule mining on 50,000+ retail transactions to uncover high-affinity product pairs and seasonal buying trends, enabling data-driven recommendations that increased potential basket size by approx. 9% in simulation tests.
+- Built a fully automated Power BI dashboard consolidating POS and e-commerce data, reducing manual reporting time by close to 85% and providing category managers with real-time visibility into customer segments, high-margin bundles, and promotional opportunities.
 
 ---
 
 ### 🌱 [ESG Emissions Dashboard](https://github.com/svaraa/esg-emmisions-dashboard)  
 *Sustainability & Energy Analytics*  
-- Built Power BI dashboards to track energy consumption and carbon-equivalent emissions.  
-- Highlighted inefficiencies leading to a **7% reduction in projected emissions**.  
+- Developed a full end-to-end ESG analytics workflow using Python for data cleaning and Tableau for visualization, transforming 200+ years of global CO₂ emissions data into a clean, analysis-ready dataset. Built an interactive dashboard highlighting key sustainability KPIs including YoY Emission Change, Average Annual Growth Rate, and Global Emissions Trend, enabling users to clearly understand long-term climate patterns and acceleration periods.
+- Created country-level comparative visualizations such as a world CO₂ heatmap and Top 10 Emitters bar chart, revealing impactful insights—including a >300% increase in global emissions since 1960, significant regional disparities, and identification of nations with the largest modern-day carbon footprints. Enhanced ESG decision-making by enabling users to filter emissions by year and evaluate global vs. country-level sustainability progress.
 
 ---
 
 ### 📊 [Sales Performance Dashboard](https://github.com/svaraa/sales-kpi-performance)  
 *Business & KPI Reporting*  
-- Designed automated Power BI dashboards tracking sales, profit margins, and regional KPIs.  
-- Reduced manual Excel reporting by **~75%**, improving visibility into performance trends.  
+- Designed an interactive Tableau dashboard that analyzes over 10,000 retail transactions, showcasing key business KPIs such as Total Sales, Total Profit, Profit Margin %, and Customer Count. Delivered clear visibility into year-over-year sales trends, regional performance differences, and product-level profitability, enabling quick identification of revenue drivers and underperforming segments.
+- Built advanced visual analytics including Top 10 Product Ranking, Category Profitability comparison, and Month-over-Month Sales trend, resulting in a dashboard capable of uncovering insights such as a 15 to 20% seasonal sales uplift in Q4, highest profits from Technology products, and significant margin fluctuations across sub-categories. Enhanced user experience with dynamic filters for Region, Category, and Order Year.
 
 ---
 
